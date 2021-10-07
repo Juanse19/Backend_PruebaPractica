@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  pruebasd:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "3001:80"

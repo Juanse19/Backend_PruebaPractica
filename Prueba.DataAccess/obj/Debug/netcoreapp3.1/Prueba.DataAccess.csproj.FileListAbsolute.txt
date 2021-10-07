@@ -1,0 +1,17 @@
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\bin\Debug\netcoreapp3.1\Prueba.DataAccess.deps.json
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\bin\Debug\netcoreapp3.1\Prueba.DataAccess.dll
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\bin\Debug\netcoreapp3.1\Prueba.DataAccess.pdb
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\obj\Debug\netcoreapp3.1\Prueba.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\obj\Debug\netcoreapp3.1\Prueba.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\obj\Debug\netcoreapp3.1\Prueba.DataAccess.AssemblyInfo.cs
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\obj\Debug\netcoreapp3.1\Prueba.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\obj\Debug\netcoreapp3.1\Prueba.DataAccess.dll
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\obj\Debug\netcoreapp3.1\Prueba.DataAccess.pdb
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\obj\Debug\netcoreapp3.1\Prueba.DataAccess.csproj.AssemblyReference.cache
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\bin\Debug\netcoreapp3.1\Prueba.Models.dll
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\bin\Debug\netcoreapp3.1\Prueba.Repositories.dll
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\bin\Debug\netcoreapp3.1\Prueba.UnitOfWork.dll
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\bin\Debug\netcoreapp3.1\Prueba.Repositories.pdb
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\bin\Debug\netcoreapp3.1\Prueba.UnitOfWork.pdb
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\bin\Debug\netcoreapp3.1\Prueba.Models.pdb
+C:\Users\jlosada\source\repos\Prueba\Prueba.DataAccess\obj\Debug\netcoreapp3.1\Prueba.DataAccess.csproj.CopyComplete

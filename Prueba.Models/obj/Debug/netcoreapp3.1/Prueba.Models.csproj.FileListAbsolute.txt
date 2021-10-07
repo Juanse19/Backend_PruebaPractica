@@ -1,0 +1,10 @@
+C:\Users\jlosada\source\repos\Prueba\Prueba.Models\bin\Debug\netcoreapp3.1\Prueba.Models.deps.json
+C:\Users\jlosada\source\repos\Prueba\Prueba.Models\bin\Debug\netcoreapp3.1\Prueba.Models.dll
+C:\Users\jlosada\source\repos\Prueba\Prueba.Models\bin\Debug\netcoreapp3.1\Prueba.Models.pdb
+C:\Users\jlosada\source\repos\Prueba\Prueba.Models\obj\Debug\netcoreapp3.1\Prueba.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlosada\source\repos\Prueba\Prueba.Models\obj\Debug\netcoreapp3.1\Prueba.Models.AssemblyInfoInputs.cache
+C:\Users\jlosada\source\repos\Prueba\Prueba.Models\obj\Debug\netcoreapp3.1\Prueba.Models.AssemblyInfo.cs
+C:\Users\jlosada\source\repos\Prueba\Prueba.Models\obj\Debug\netcoreapp3.1\Prueba.Models.csproj.CoreCompileInputs.cache
+C:\Users\jlosada\source\repos\Prueba\Prueba.Models\obj\Debug\netcoreapp3.1\Prueba.Models.dll
+C:\Users\jlosada\source\repos\Prueba\Prueba.Models\obj\Debug\netcoreapp3.1\Prueba.Models.pdb
+C:\Users\jlosada\source\repos\Prueba\Prueba.Models\obj\Debug\netcoreapp3.1\Prueba.Models.csproj.AssemblyReference.cache
